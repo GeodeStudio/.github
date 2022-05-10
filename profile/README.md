@@ -1,4 +1,4 @@
-## Hi there 👋
+## Geometry Dash Mod Maker
 
 <!--
 
