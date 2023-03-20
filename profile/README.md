@@ -1,5 +1,5 @@
-## Geometry Dash Mod Maker
+## GeodeIDE
 
-An Open-Source GUI mod maker for Geometry Dash.
-Still in the concepts stage, so don't expect anything useful for quite a while.
+An Open-Source GUI mod maker for Geometry Dash that uses Geode SDK.
+Is currently being worked on, but is not functional yet.
 Feel free to help with the development!
